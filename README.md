@@ -17,4 +17,4 @@ The app has two tabs:
 
 ![](https://github.com/PabloCanovas/ABTesting-Calculator/blob/main/Snapshots/AB%20Test%20Calculator.PNG)
 
-![App snapshot](https://github.com/PabloCanovas/ABTesting-Calculator/blob/main/Snapshots/binomial_pvalue.PNG)
+![](https://github.com/PabloCanovas/ABTesting-Calculator/blob/main/Snapshots/Statistical%20Power.PNG)
