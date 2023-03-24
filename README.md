@@ -15,6 +15,7 @@ The app has two tabs:
 * The second one, more theoric, shows how the minimum detectable effect and the statistical power vary when maximum allowed alpha and beta errors change.
 
 
-![]()
+![](https://github.com/PabloCanovas/ABTesting-Calculator/blob/main/Snapshots/AB%20Test%20Calculator.PNG)
+
 
 ![](https://github.com/PabloCanovas/ABTesting-Calculator/blob/main/Snapshots/Statistical%20Power.PNG)
