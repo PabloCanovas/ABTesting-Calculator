@@ -1,1 +1,1 @@
-# ABTesting-Calculator
+# AB Testing Calculator
